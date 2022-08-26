@@ -19,7 +19,7 @@ https://docs.google.com/forms/d/1rCXZE7Qx9VBHBDNQTGECKbM_5d1s4ISnLYkPxWpLCUo/edi
 
 ## Deployment
 
-Code.gs is loaded into Extensions > Apps Script (from the top menu)
+Code.gs is loaded into Extensions > Apps Script (from the top menu of sheet)
 
 ## How to launch or test
 
