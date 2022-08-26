@@ -1,6 +1,6 @@
 # B2B Live Training Registration
 
-## This is an autoresponder for B2B Live Training submissions.
+> This is an autoresponder for B2B Live Training submissions.
 
 ## Configuration:
 Run as TZ, Notify Immediately on Error, onFormSubmit throughout
